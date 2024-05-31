@@ -1,4 +1,4 @@
-var ddxsquad = "https://www.playbook.com/s/master-le-inc/ddxsquad";
+var enantiomer = "https://www.playbook.com/s/masterle/the-enantiomers";
 var masterle = "https://dev.masterle.xyz/about";
 var twitter = "https://www.twitter.com/notmasterle/";
 var video = "https://www.youtube.com/watch?v=UieeBxPVvHM";
@@ -47,7 +47,7 @@ help = [
   "<br>",
   '<span class="command">whois</span>          Who is behind all this!?',
   '<span class="command">whoami</span>         Who are you!!???',
-  '<span class="command">squad</span>          Who tf is the ddxSQUAD?',
+  '<span class="command">enantiomer</span>     What tf are enantiomers?',
   '<span class="command">video</span>          View a revolutionary video',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">secret</span>         Find the password',
