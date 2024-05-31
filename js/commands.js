@@ -61,7 +61,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">PS C:/usrs/detectivele> git init ddxTERMINAL</span>',
+  '<span class="index">PS C:/usrs/guncle> git init enantiomers</span>',
   '<span class="index">🤖 Y0G1-TR0N: enantiomers... initating....</span>',
   '<span class="index">🤖 Y0G1-TR0N: bruff-bruff...where is... ball...</span>',
   "<br>",
