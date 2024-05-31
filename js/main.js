@@ -89,7 +89,7 @@ function commander(cmd) {
       loopLines(whoami, "color2 margin", 80);
       break;
     case "video":
-      addLine("Opening YouTube...", "color2", 80);
+      addLine("Opening one good video...", "color2", 80);
       newTab(video);
       break;
     case "sudo":
