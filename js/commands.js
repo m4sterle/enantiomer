@@ -1,10 +1,7 @@
-var enantiomer = "https://www.playbook.com/s/masterle/the-enantiomers";
+var memory_lane = "https://www.playbook.com/s/masterle/the-enantiomers";
 var masterle = "https://dev.masterle.xyz/about";
-var twitter = "https://www.twitter.com/notmasterle/";
 var video = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 var password = "yogitron";
-var github = "https://github.com/ddxsquad/";
-var email = 'mailto:iam@masterle.xyz';
 
 wot = [
   "<br>",
@@ -18,14 +15,8 @@ wot = [
 
 why = [
   "<br>",
-  "DAT A GOOD QUESTION! WHO ARE YUS????????? WOT R U DOING IN ME TERMINAL?",
-  "<br>"
-];
-
-social = [
-  "<br>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/notmasterle' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/ddxsquad' + "</a>",
+  "insert rationale here...",
+  "<span class=\"color2\">ok, bitch... if u tryna see some cool terminal shit, enter in...</span> <span class=\"command\">'yogibogi'</span><span class=\"color2\">.</span>",
   "<br>"
 ];
 
@@ -37,22 +28,24 @@ secret = [
 
 help_may = [
   "<br>",
+  '<span class="color2"> need help, hah?</span>',
+  "<span class=\"color2\">here. some good </span> <span class=\"command\">'commands'</span><span class=\"color2\"> for yao.</span>",
   '<span class="command">wot</span>            Wot is the meaning of all this...',
   '<span class="command">why</span>            Ok... so u explained the meaning... but like.. why.',
   "<br>",
 ];
 
-help = [
+yogibogi = [
   "<br>",
-  '<span class="command">whois</span>          Who is behind all this!?',
-  '<span class="command">whoami</span>         Who are you!!???',
-  '<span class="command">enantiomer</span>     What tf are enantiomers?',
+  '<span class="command">memory_lane</span>    Just a DASH of ✨nostalgia✨',
   '<span class="command">video</span>          View a revolutionary video',
-  '<span class="command">secret</span>         Find the password',
   '<span class="command">history</span>        View command history',
-  '<span class="command">help</span>           You obviously already know what this does',
-  '<span class="command">clear</span>          Clear terminal',
+  '<span class="command">help_may</span>       You been knew this',
+  '<span class="command">yogibogi</span>       You been knew this, too BETCH',
   '<span class="command">banner</span>         Display the header',
+  '<span class="command">history</span>        View command history',
+  '<span class="command">clear</span>          Clear terminal',
+  '<span class="command">secret</span>         Find the password',
   "<br>",
 ];
 
