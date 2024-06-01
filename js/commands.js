@@ -23,6 +23,12 @@ why = [
   "<br>"
 ];
 
+secret = [
+  "<br>",
+  '<span class="command">sudo</span>           Only use if you\'re admin',
+  "<br>"
+];
+
 help_may = [
   "<br>",
   '<span class="color2"> need help, hah?</span>',
