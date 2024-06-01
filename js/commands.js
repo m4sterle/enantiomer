@@ -6,17 +6,17 @@ var password = "yogitron";
 var github = "https://github.com/ddxsquad/";
 var email = 'mailto:iam@masterle.xyz';
 
-whois = [
+wot = [
   "<br>",
-  "Sop!👋",
-  "This is the ddxSQUAD aka Detective Le.... and Y0G1TR0N... oh, ya Master Le too.",
-  "So.... come here to take a gander at the ddxCLUE terminal, eh? DARE to see more?",
+  "Sop, BIRTHDAY BOI!🥳👋",
+  "This is yo very old... personally-coded website that is TERMINAL-THEMED!!",
+  "Well... don't be shy....",
   "<br>",
   "Well, go on... continue to try out those cmds...",
   "<br>"
 ];
 
-whoami = [
+why = [
   "<br>",
   "DAT A GOOD QUESTION! WHO ARE YUS????????? WOT R U DOING IN ME TERMINAL?",
   "<br>"
@@ -35,11 +35,13 @@ secret = [
   "<br>"
 ];
 
-projects = [
+help_may = [
   "<br>",
-  "Still curating... in other words, they are scattered all over the web.", 
-  "I may or may not even know where they are...But... for now.... you can meet...",
-  `The <a href='${masterle}' target='_blank'>master</a> ...if you dare...`,
+  '<span class="command">wot</span>            Wot is the meaning of all this...',
+  '<span class="command">why</span>            Ok... so u explained the meaning... but like.. why.',
+  '<span class="command">email</span>          Do not email me',
+  '<span class="command">clear</span>          Clear terminal',
+  '<span class="command">banner</span>         Display the header',
   "<br>",
 ];
 
@@ -66,7 +68,6 @@ banner = [
   '<span class="index">🤖 Y0G1-TR0N: bruff-bruff...where is... ball...</span>',
   "<br>",
   "<br>",
-  "<br>",
   '<span class="index">🤖 Y0G1-TR0N: .......................enantiomers init complete!</span>',
   "<br>",
   "                                             /$$     /$$ ",                                            
@@ -79,5 +80,5 @@ banner = [
   "   \_______/|__/  |__/ \_______/|__/  |__/   \___/  |__/ \______/ |__/ |__/ |__/ \_______/|__/ ",       
   " 🤖 Y0G1-TR0N: System init done.",
   '<span class="color2"> welcome, bitch.</span>',
-  "<span class=\"color2\">well, go on.... I know u don't know what da hail going on. just type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">I know u don't know what da hail going on, so why don't u just type</span> <span class=\"command\">'help_may'</span><span class=\"color2\">.</span>",
 ];
