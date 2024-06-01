@@ -123,6 +123,9 @@ function commander(cmd) {
         before = document.getElementById("before");
       }, 1);
       break;
+    case "banner":
+      loopLines(banner, "", 80);
+      break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
