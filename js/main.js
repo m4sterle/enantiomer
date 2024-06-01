@@ -92,9 +92,9 @@ function commander(cmd) {
       addLine("Opening one good video...", "color2", 80);
       newTab(video);
       break;
-    case "enantiomer":
-      addLine("Get ready to meet the enantiomers...", "color2", 80);
-      newTab(enantiomer);
+    case "memory_lane":
+      addLine("Feeling... ✨NOSTALGIC✨, eh?", "color2", 80);
+      newTab(memory_lane);
       break;
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
