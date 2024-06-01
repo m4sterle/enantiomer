@@ -82,8 +82,8 @@ function commander(cmd) {
     case "help_may":
       loopLines(help_may, "color2 margin", 80);
       break;
-    case "help_pls":
-      loopLines(help_pls, "color2 margin", 80);
+    case "yogibogi":
+      loopLines(yogibogi, "color2 margin", 80);
       break;
     case "wot":
       loopLines(wot, "color2 margin", 80);
