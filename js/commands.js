@@ -39,9 +39,6 @@ help_may = [
   "<br>",
   '<span class="command">wot</span>            Wot is the meaning of all this...',
   '<span class="command">why</span>            Ok... so u explained the meaning... but like.. why.',
-  '<span class="command">email</span>          Do not email me',
-  '<span class="command">clear</span>          Clear terminal',
-  '<span class="command">banner</span>         Display the header',
   "<br>",
 ];
 
@@ -51,12 +48,9 @@ help = [
   '<span class="command">whoami</span>         Who are you!!???',
   '<span class="command">enantiomer</span>     What tf are enantiomers?',
   '<span class="command">video</span>          View a revolutionary video',
-  '<span class="command">social</span>         Display social networks',
   '<span class="command">secret</span>         Find the password',
-  '<span class="command">projects</span>       View coding projects',
   '<span class="command">history</span>        View command history',
   '<span class="command">help</span>           You obviously already know what this does',
-  '<span class="command">email</span>          Do not email me',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">banner</span>         Display the header',
   "<br>",
