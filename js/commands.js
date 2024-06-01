@@ -29,7 +29,8 @@ secret = [
 help_may = [
   "<br>",
   '<span class="color2"> need help, hah?</span>',
-  "<span class=\"color2\">here. some good </span> <span class=\"command\">'commands'</span><span class=\"color2\"> for yao.</span>",
+  "<span class=\"color2\">here. some good </span> <span class=\"command\">'commands'</span><span class=\"color2\"> for yao:</span>",
+  "<br>",
   '<span class="command">wot</span>            Wot is the meaning of all this...',
   '<span class="command">why</span>            Ok... so u explained the meaning... but like.. why.',
   "<br>",
