@@ -5,18 +5,21 @@ var password = "yogitron";
 
 wot = [
   "<br>",
-  "Sop, BIRTHDAY BOI!🥳👋",
-  "This is yo very old... personally-coded website that is TERMINAL-THEMED!!",
-  "Well... don't be shy....",
+  "WOT is this preposterous site you just done stumbled on... you may ask? 🤔🫨",
+  "why, this is yo very own TERMINAL-STYLED WEBSITE... PERSONALLY coded by yo bff, commands and all, YUP!",
   "<br>",
-  "Well, go on... continue to try out those cmds...",
+  "well, go on... I only gave you 2 commands...",
+  "don't be shy... run the next...",
   "<br>"
 ];
 
 why = [
   "<br>",
-  "insert rationale here...",
-  "<span class=\"color2\">ok, bitch... if u tryna see some cool terminal shit, enter in...</span> <span class=\"command\">'yogibogi'</span><span class=\"color2\">.</span>",
+  "because you are... BIRTHDAY BOI!🥳👋",
+  "it's 2024 and el mateo is running commands in some terminal…",
+  "NOW, I may die in peace as I've... I've truly SEEN EVERYTHING!!! ",
+  "<br>"
+  "<span class=\"color2\">alright, bitch... if u tryna see some cool ass terminal shit, enter in...</span> <span class=\"command\">'yogibogi'</span><span class=\"color2\">.</span>",
   "<br>"
 ];
 
@@ -38,7 +41,6 @@ help_may = [
 
 yogibogi = [
   "<br>",
-  '<span class="command">memory_lane</span>    Just a DASH of ✨nostalgia✨',
   '<span class="command">video</span>          View a revolutionary video',
   '<span class="command">history</span>        View command history',
   '<span class="command">help_may</span>       You been knew this',
@@ -46,7 +48,7 @@ yogibogi = [
   '<span class="command">banner</span>         Display the header',
   '<span class="command">history</span>        View command history',
   '<span class="command">clear</span>          Clear terminal',
-  '<span class="command">secret</span>         Find the password',
+  '<span class="command">memory_lane</span>    Just a DASH of ✨nostalgia✨',
   "<br>",
 ];
 
