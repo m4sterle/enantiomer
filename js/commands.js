@@ -1,4 +1,4 @@
-var memory_lane = "https://www.playbook.com/s/masterle/the-enantiomers";
+var bevo_balls = "https://www.playbook.com/s/masterle/the-enantiomers";
 var masterle = "https://dev.masterle.xyz/about";
 var video = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 var password = "yogitron";
@@ -38,7 +38,7 @@ help_may = [
 
 yogibogi = [
   "<br>",
-  '<span class="command">memory_lane</span>    Just a DASH of ✨nostalgia✨',
+  '<span class="command">bevo_balls</span>    Just a DASH of ✨nostalgia✨',
   '<span class="command">video</span>          View a revolutionary video',
   '<span class="command">history</span>        View command history',
   '<span class="command">help_may</span>       You been knew this',
