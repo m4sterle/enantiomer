@@ -5,17 +5,20 @@ var password = "yogitron";
 
 wot = [
   "<br>",
-  "Sop, BIRTHDAY BOI!🥳👋",
-  "This is yo very old... personally-coded website that is TERMINAL-THEMED!!",
-  "Well... don't be shy....",
+  "WOT is this preposterous site you just done stumbled on... you may ask? 🤔🫨",
+  "why, this is yo very own TERMINAL-STYLED WEBSITE... PERSONALLY coded by yo bff, commands and all, YUP!",
   "<br>",
-  "Well, go on... continue to try out those cmds...",
+  "well, go on... I only gave you 2 commands...",
+  "don't be shy... run the next...",
   "<br>"
 ];
 
 why = [
   "<br>",
-  "insert rationale here...",
+  "because you are... BIRTHDAY BOI!🥳🎉",
+  "it's 2024 and el mateo is running commands some terminal...",
+  "NOW, I may die in peace as I've... I've truly SEEN EVERYTHING!!!",
+  "<br>",
   "<span class=\"color2\">ok, bitch... if u tryna see some cool terminal shit, enter in...</span> <span class=\"command\">'yogibogi'</span><span class=\"color2\">.</span>",
   "<br>"
 ];
@@ -31,22 +34,21 @@ help_may = [
   '<span class="color2"> need help, hah?</span>',
   "<span class=\"color2\">here. some good </span> <span class=\"command\">commands</span><span class=\"color2\"> for yao:</span>",
   "<br>",
-  '<span class="command">wot</span>            Wot is the meaning of all this...',
-  '<span class="command">why</span>            Ok... so u explained the meaning... but like.. why.',
+  '<span class="command">wot</span>            wot is the meaning of all this...',
+  '<span class="command">why</span>            ok... so u explained the meaning... but like.. why.',
   "<br>",
 ];
 
 yogibogi = [
   "<br>",
-  '<span class="command">bevo_balls</span>    Just a DASH of ✨nostalgia✨',
-  '<span class="command">video</span>          View a revolutionary video',
-  '<span class="command">history</span>        View command history',
-  '<span class="command">help_may</span>       You been knew this',
-  '<span class="command">yogibogi</span>       You been knew this, too BETCH',
-  '<span class="command">banner</span>         Display the header',
-  '<span class="command">history</span>        View command history',
-  '<span class="command">clear</span>          Clear terminal',
-  '<span class="command">secret</span>         Find the password',
+  '<span class="command">help_may</span>       you been knew this',
+  '<span class="command">yogibogi</span>       you been knew this, too BETCH',
+  '<span class="command">video</span>          view a revolutionary video',
+  '<span class="command">banner</span>         display the header',
+  '<span class="command">history</span>        view command history',
+  '<span class="command">clear</span>          clear terminal',
+  '<span class="command">secret</span>         find the password',
+  '<span class="command">bevo_balls</span>     just a DASH of ✨nostalgia✨',
   "<br>",
 ];
 
@@ -66,7 +68,8 @@ banner = [
   "  | $$_____/| $$  | $$ /$$__  $$| $$  | $$  | $$ /$$| $$| $$  | $$| $$ | $$ | $$| $$_____/| $$ ",      
   "  |  $$$$$$$| $$  | $$|  $$$$$$$| $$  | $$  |  $$$$/| $$|  $$$$$$/| $$ | $$ | $$|  $$$$$$$| $$ ",      
   "   \_______/|__/  |__/ \_______/|__/  |__/   \___/  |__/ \______/ |__/ |__/ |__/ \_______/|__/ ",       
-  " 🤖 Y0G1-TR0N: System init done.",
+  '<span class="index">🤖 Y0G1-TR0N: System init done."</span>',
+  "<br>",
   '<span class="color2"> welcome, bitch.</span>',
   "<span class=\"color2\">I know u don't know what da hail going on, so why don't u just type</span> <span class=\"command\">'help_may'</span><span class=\"color2\">.</span>",
 ];
