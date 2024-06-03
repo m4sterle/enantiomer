@@ -95,6 +95,10 @@ function commander(cmd) {
       addLine("Opening one good video...", "color2", 80);
       newTab(video);
       break;
+    case "severus_gape":
+      var sentence = getRandomSentence(); // This function will be defined in commands.js
+      addLine(sentence, "color2", 80);
+      break;
     case "bevo_balls":
       addLine("Feeling... ✨NOSTALGIC✨, eh?", "color2", 80);
       newTab(bevo_balls);

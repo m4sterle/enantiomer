@@ -3,6 +3,21 @@ var masterle = "https://dev.masterle.xyz/about";
 var video = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 var password = "yogitron";
 
+function getRandomSentence() {
+  var sentences = [
+    "did you know that dey-wong? …not dey-schlong but dey-wong.", 
+    "jee-loo", 
+    "you're my perfect MIRROR image.",
+    "we're two of a kind, but never SUPERIMPOSABLE.",
+    "our frandship is, like, CHIRALLY awesome.", 
+    "you are a broke dawg",
+    "XXX", 
+    "XXX", 
+    "Sentence 4"]; 
+  var randomIndex = Math.floor(Math.random() * sentences.length);
+  return sentences[randomIndex];
+}
+
 wot = [
   "<br>",
   "WOT is this preposterous site you just done stumbled on... you may ask? 🤔🫨",
@@ -42,12 +57,12 @@ help_may = [
 yogibogi = [
   "<br>",
   '<span class="command">help_may</span>       you been knew this',
-  '<span class="command">yogibogi</span>       you been knew this, too BETCH',
+  '<span class="command">yogibogi</span>       you been knew this too, BETCH',
   '<span class="command">video</span>          view a revolutionary video',
+  '<span class="command">severus_gape</span>   read a randomly selected insider... or a fun enantiomer pun, lol',
   '<span class="command">banner</span>         display the header',
   '<span class="command">history</span>        view command history',
   '<span class="command">clear</span>          clear terminal',
-  '<span class="command">secret</span>         find the password',
   '<span class="command">bevo_balls</span>     just a DASH of ✨nostalgia✨',
   "<br>",
 ];
