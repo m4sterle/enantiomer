@@ -54,14 +54,15 @@ help_may = [
 
 yogibogi = [
   "<br>",
-  '<span class="command">help_may</span>       you been knew this',
-  '<span class="command">yogibogi</span>       you been knew this too, BETCH',
-  '<span class="command">video</span>          view a revolutionary video',
-  '<span class="command">severus_gape</span>   read a randomly selected insider... or a fun enantiomer pun, lol',
-  '<span class="command">banner</span>         display the header',
-  '<span class="command">history</span>        view command history',
-  '<span class="command">clear</span>          clear terminal',
-  '<span class="command">bevo_balls</span>     just a DASH of ✨nostalgia✨',
+  '<span class="command">help_may</span>              you been knew this',
+  '<span class="command">yogibogi</span>              you been knew this too, BETCH',
+  '<span class="command">video</span>                 view a revolutionary video',
+  '<span class="command">severus_gape</span>          read a randomly selected insider... or a fun enantiomer pun, lol',
+  '<span class="command">banner</span>                display the header',
+  '<span class="command">history</span>               view command history',
+  '<span class="command">clear</span>                 clear terminal',
+  '<span class="command">bevo_balls</span>            just a DASH of ✨nostalgia✨',
+  '<span class="command">confidence_interval</span>   a mysterious command.. with a mysterious fate...',
   "<br>",
 ];
 
