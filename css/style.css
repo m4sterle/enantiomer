@@ -10,8 +10,8 @@ body {
     overflow-x: hidden;
   }
   ::selection {
-    color: #f8f8f3;
-    background-color: #4560ad;
+    color: #000000;
+    background-color: #9df08e;
   }
   ::-moz-selection {
     color: #27243e;
@@ -50,7 +50,7 @@ body {
   #command {
     cursor: text;
     height: 50px;
-    color: #d948d9;
+    color: #DCDCCC;
   }
   #liner {
     line-height: 1.3em;
