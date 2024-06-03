@@ -99,6 +99,11 @@ function commander(cmd) {
       var sentence = getRandomSentence(); // This function will be defined in commands.js
       addLine(sentence, "color2", 80);
       break;
+    case "confidence_interval":
+      var qrCodeUrl = "https://i.imgur.com/txcsrVk.png"; // Replace this with your QR code URL
+      addLine("Loading something cool 'af...", "color2", 80);
+      newTab(qrCodeUrl);
+      break;
     case "bevo_balls":
       addLine("Feeling... ✨NOSTALGIC✨, eh?", "color2", 80);
       newTab(bevo_balls);
