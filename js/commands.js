@@ -63,6 +63,14 @@ yogibogi = [
   '<span class="command">clear</span>                 clear terminal',
   '<span class="command">bevo_balls</span>            just a DASH of ✨nostalgia✨',
   '<span class="command">confidence_interval</span>   a mysterious command.. with a mysterious fate...',
+  '<span class="command">happy_birthday</span>        do NAT enter this command... not done coding it yet',
+  "<br>",
+];
+
+happy_birthday = [
+  "<br>",
+  '<span class="command">BRAO!</span>',
+  "<span class=\"color2\">I SAY YOU NAT ENTER, WHY YOU ENTER, </span> <span class=\"command\">HAH???</span><span class=\"color2\"></span>",
   "<br>",
 ];
 
