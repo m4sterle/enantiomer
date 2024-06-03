@@ -11,9 +11,7 @@ function getRandomSentence() {
     "we're two of a kind, but never SUPERIMPOSABLE.",
     "our frandship is, like, CHIRALLY awesome.", 
     "you are a broke dawg",
-    "XXX", 
-    "XXX", 
-    "Sentence 4"]; 
+    "sometime... it okay.... to go thru da peel... 🍌"]; 
   var randomIndex = Math.floor(Math.random() * sentences.length);
   return sentences[randomIndex];
 }
