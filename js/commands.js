@@ -71,6 +71,7 @@ happy_birthday = [
   "<br>",
   '<span class="command">BRAO!</span>',
   "<span class=\"color2\">I SAY YOU NAT ENTER, WHY YOU ENTER, </span> <span class=\"command\">HAH???</span><span class=\"color2\"></span>",
+  "(lol, your long bday text will go here when you run dis command soon.)",
   "<br>",
 ];
 
