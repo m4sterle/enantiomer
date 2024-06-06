@@ -90,7 +90,7 @@ banner = [
   "  | $$_____/| $$  | $$ /$$__  $$| $$  | $$  | $$ /$$| $$| $$  | $$| $$ | $$ | $$| $$_____/| $$ ",      
   "  |  $$$$$$$| $$  | $$|  $$$$$$$| $$  | $$  |  $$$$/| $$|  $$$$$$/| $$ | $$ | $$|  $$$$$$$| $$ ",      
   "   \_______/|__/  |__/ \_______/|__/  |__/   \___/  |__/ \______/ |__/ |__/ |__/ \_______/|__/ ",       
-  '<span class="index">🤖 Y0G1-TR0N: System init done."</span>',
+  '<span class="index">🤖 Y0G1-TR0N: System init done.</span>',
   "<br>",
   '<span class="color2"> welcome, bitch.</span>',
   "<span class=\"color2\">I know u don't know what da hail going on, so why don't u just type</span> <span class=\"command\">'help_may'</span><span class=\"color2\">.</span>",
