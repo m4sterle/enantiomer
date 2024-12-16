@@ -1,4 +1,4 @@
-var bevo_balls = "https://www.playbook.com/s/masterle/the-enantiomers";
+var bevo_balls = "https://www.playbook.com/s/masterleinc/4my-enantiomer";
 var masterle = "https://dev.masterle.xyz/about";
 var video = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 var password = "yogitron";
