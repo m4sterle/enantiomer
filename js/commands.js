@@ -76,23 +76,23 @@ happy_birthday = [
 ];
 
 // Replace the current ASCII art section in banner array with:
-  banner = [
+banner = [
   '<span class="index">PS C:/usrs/guncle> git init enantiomers</span>',
   '<span class="index">🤖 Y0G1-TR0N: enantiomers... initating....</span>',
   '<span class="index">🤖 Y0G1-TR0N: bruff-bruff...where is... ball...</span>',
   "<br>",
   "<br>",
   '<span class="index">🤖 Y0G1-TR0N: .......................enantiomers init complete!</span>',
-  "                              _                         ",
-  "                         _   (_)                        ",
-  "  ____ ____   ____ ____ | |_  _  ___  ____   ____  ____ ",
-  " / _  )  _ \\ / _  |  _ \\|  _)| |/ _ \\|    \\ / _  )/ ___)",
-  "( (/ /| | | ( ( | | | | | |__| | |_| | | | ( (/ /| |    ",
-  " \\____)_| |_|\\_||_|_| |_|\\___)_|\\___/|_|_|_|\\____)_|    ",
+  "                                    888    d8b                                         ",
+  "                                    888    Y8P                                         ",
+  "                                    888                                                ",
+  " .d88b.  88888b.   8888b.  88888b.  888888 888  .d88b.  88888b.d88b.   .d88b.  888d888 ",
+  "d8P  Y8b 888 \"88b     \"88b 888 \"88b 888    888 d88\"\"88b 888 \"888 \"88b d8P  Y8b 888P\"   ",
+  "88888888 888  888 .d888888 888  888 888    888 888  888 888  888  888 88888888 888     ",
+  "Y8b.     888  888 888  888 888  888 Y88b.  888 Y88..88P 888  888  888 Y8b.     888     ",
+  " \"Y8888  888  888 \"Y888888 888  888  \"Y888 888  \"Y88P\"  888  888  888  \"Y8888  888     ",
   '<span class="index">🤖 Y0G1-TR0N: System init done.</span>',
   "<br>",
   '<span class="color2"> welcome, bitch.</span>',
-  "<span class=\"color2\">I know u don't know what da hail going on, so why don't u just type</span> <span class=\"command\">'help_may'</span><span class=\"color2\">.</span>",
-];
   "<span class=\"color2\">I know u don't know what da hail going on, so why don't u just type</span> <span class=\"command\">'help_may'</span><span class=\"color2\">.</span>",
 ];
